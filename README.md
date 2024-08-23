@@ -3,6 +3,6 @@ A machine learning model to help insurance companies predict the health of their
 
 <object data="https://github.com/10adnan75/wellness-score/blob/main/WellnessScoreSDSD.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
-        <p>Software Design Specification Document: <a href="https://github.com/10adnan75/wellness-score/blob/main/WellnessScoreSDSD.pdf">Download PDF</a>.</p>
+        <p>Software Design Specification Document: <a href="https://github.com/10adnan75/wellness-score/blob/main/WellnessScoreSDSD.pdf">WellnessScoreSDSD</a>.</p>
     </embed>
 </object>
